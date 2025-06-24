@@ -1,0 +1,2 @@
+server.port=2228
+spring.main.allow-circular-references=true

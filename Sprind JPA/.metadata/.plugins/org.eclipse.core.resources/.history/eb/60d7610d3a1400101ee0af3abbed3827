@@ -1,0 +1,5 @@
+package com.rest.springboot.repository;
+
+public class TicketBookingRepository {
+
+}

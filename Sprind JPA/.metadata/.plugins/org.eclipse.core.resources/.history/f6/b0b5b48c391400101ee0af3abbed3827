@@ -1,0 +1,5 @@
+package com.rest.springboot.entities;
+
+public class Ticket {
+
+}

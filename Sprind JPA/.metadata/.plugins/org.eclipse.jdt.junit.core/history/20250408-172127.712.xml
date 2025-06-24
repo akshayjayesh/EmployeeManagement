@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CalculatorTest" project="Junit5Proj" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.service.CalculatorTest" time="0.022" displayname="CalculatorTest" uniqueid="[engine:junit-jupiter]/[class:com.service.CalculatorTest]">
+    <testcase name="testAdd" classname="com.service.CalculatorTest" time="0.02" displayname="testAdd()" uniqueid="[engine:junit-jupiter]/[class:com.service.CalculatorTest]/[method:testAdd()]"/>
+    <testcase name="testMultiply" classname="com.service.CalculatorTest" time="0.001" displayname="testMultiply()" uniqueid="[engine:junit-jupiter]/[class:com.service.CalculatorTest]/[method:testMultiply()]"/>
+  </testsuite>
+</testrun>
